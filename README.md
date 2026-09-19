@@ -57,13 +57,11 @@ difference in mean order-level Total Sales between the two groups at the
 ## Repository Links
 
 
--   **Task 1 -- Data Immersion & Wrangling:** `[https://github.com/dhakaswati4-design/dataanalyticstask1.git]`
--   **Task 2 -- EDA & Business Intelligence:**
-    `[https://github.com/dhakaswati4-design/dataanalyticstask2.git]`
--   **Task 3 -- Deep-Dive & Interactive Dashboard:**
-    `[https://github.com/dhakaswati4-design/dataanalyticstask3.git]`
+-   **Task 1 -- Data Immersion & Wrangling:** [GitHub Repository](https://github.com/dhakaswati4-design/dataanalyticstask1)
+-   **Task 2 -- EDA & Business Intelligence:** [GitHub Repository](https://github.com/dhakaswati4-design/dataanalyticstask2)
+-   **Task 3 -- Deep-Dive & Interactive Dashboard:** [GitHub Repository](https://github.com/dhakaswati4-design/dataanalyticstask3)
 -   **Task 4 -- Data Storytelling & Statistical Validation:**
-    `[https://github.com/dhakaswati4-design/dataananalyticstask4.git]`
+-   [GitHub Repository](https://github.com/dhakaswati4-design/dataanalyticstask4)
 
 ## Final Presentation
 
