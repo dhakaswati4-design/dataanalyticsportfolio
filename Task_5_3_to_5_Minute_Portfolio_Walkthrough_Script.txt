@@ -1,0 +1,51 @@
+APEXPLANET TASK 5 – 3–5 MINUTE PORTFOLIO WALKTHROUGH
+
+Hello everyone. This is my final portfolio walkthrough for the
+ApexPlanet 60-Days Data Analytics Internship.
+
+This master portfolio brings together the work I completed across Tasks
+1 to 4 and presents the overall analytics journey.
+
+In Task 1, I worked on data immersion and wrangling. I profiled the
+sales dataset, checked data quality issues such as missing values and
+duplicates, performed cleaning and transformation, and prepared an
+analysis-ready dataset.
+
+In Task 2, I moved to exploratory data analysis and business
+intelligence. I used descriptive statistics, business questions,
+SQL-based analysis and visualizations to understand patterns and
+relationships in the data.
+
+In Task 3, I focused on deep-dive analysis and dashboarding. I defined
+key performance indicators and built an interactive dashboard to help
+explore sales patterns across areas such as time, category, city,
+product and customer-related dimensions.
+
+In Task 4, I converted the earlier analysis into a business story and
+added statistical validation. One hypothesis tested whether average
+order-level Total Sales differed between Male and Female customers. I
+used Welch’s independent two-sample t-test with a 0.05 significance
+level. The p-value was approximately 0.495, so the sample did not
+provide sufficient statistical evidence of a difference in mean
+order-level Total Sales between the two groups.
+
+Some descriptive findings from the analysis were that Electronics had
+the highest category sales, Patna had the highest city total among the
+listed cities, and March 2025 was the highest-sales month in the
+observed data.
+
+The main skills demonstrated across the internship include Excel, Python
+and Pandas workflow, SQL, data cleaning, EDA, data visualization, KPI
+analysis, dashboarding, statistical testing, GitHub and business
+presentation.
+
+The biggest learning for me was understanding how an analyst connects
+the complete process: first preparing reliable data, then asking
+business questions, analyzing patterns, building dashboards, validating
+findings statistically and finally communicating the results clearly.
+
+This repository is the single reference point for my internship work,
+with links to the four task-specific repositories and the final
+presentation.
+
+Thank you for watching my portfolio walkthrough.
