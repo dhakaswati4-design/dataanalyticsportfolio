@@ -100,5 +100,6 @@ statistical analysis and a final business presentation.
 
 ## LinkedIn
 
--   **Internship post:** `[ADD LINK AFTER POSTING]`
--   **Portfolio walkthrough video:** `[ADD LINK AFTER POSTING]`
+-   **Internship post:** https://www.linkedin.com/posts/activity-7507130564911681536-3mix?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGGwHOIBBN2i1jri1Wtg1Z0JYF2mJvwkHPM
+
+-   **Portfolio walkthrough video:** https://www.linkedin.com/posts/activity-7507130564911681536-3mix?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGGwHOIBBN2i1jri1Wtg1Z0JYF2mJvwkHPM
