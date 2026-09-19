@@ -65,7 +65,7 @@ difference in mean order-level Total Sales between the two groups at the
 
 ## Final Presentation
 
--   `ApexPlanet_Final_Portfolio_Presentation.pptx`
+-   [ApexPlanet Final Portfolio Presentation](ApexPlanet_Final_Portfolio_Presentation.pptx)
 
 ## Skills Demonstrated
 
